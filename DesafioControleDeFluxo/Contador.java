@@ -1,3 +1,4 @@
+package DesafioControleDeFluxo;
 import java.util.Scanner;
 //main
 public class Contador {
