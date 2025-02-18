@@ -1,6 +1,6 @@
 # Projeto do Bootcamp de Desenvolvimento Java com Santander
 
-Este projeto faz parte do **Bootcamp de Desenvolvimento Java com Santader da DIO**, em parceria com o **Santander**, com o objetivo de aplicar os conhecimentos adquiridos no desenvolvimento de um sistema utilizando **Java** e **IA**.
+Este projeto faz parte do **Bootcamp de Desenvolvimento Java com Santader da DIO**, em parceria com o **Santander**, com o objetivo de aplicar os conhecimentos adquiridos no desenvolvimento de um sistema utilizando **Java** e **Santander**.
 
 O foco deste exercício foi criar uma modelagem UML para representar as funcionalidades do iPhone, abordando três componentes principais: o **Reprodutor Musical**, o **Aparelho Telefônico** e o **Navegador de Internet**. A UML (Unified Modeling Language) é uma linguagem padrão utilizada para especificar, visualizar, construir e documentar sistemas de software, sendo uma ferramenta essencial na arquitetura de sistemas.
 
